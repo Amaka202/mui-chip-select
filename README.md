@@ -79,7 +79,3 @@ Common props you may want to specify include:
 ## License
 
 MIT Licensed. Copyright (c) Chiamaka Umeh 2023.
-
-### Keywords
-
-MUI Chip Select React ui input Chips material UI

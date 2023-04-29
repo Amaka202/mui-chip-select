@@ -1,3 +1,3 @@
-import MuiChipsSelect from './components/App'
+import MuiChipSelect from './components/App'
 
-export { MuiChipsSelect }
+export { MuiChipSelect }
