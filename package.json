@@ -1,5 +1,5 @@
 {
-  "name": "mui-chips-select",
+  "name": "mui-chip-select",
   "version": "1.0.0",
   "description": "A react component for building selectable MUI Chips",
   "main": "./dist/cjs/index.js",
